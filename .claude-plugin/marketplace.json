@@ -1,0 +1,14 @@
+{
+  "name": "chrome-visual-qc",
+  "owner": {
+    "name": "Akira",
+    "email": "akira@crosbe.com"
+  },
+  "plugins": [
+    {
+      "name": "chrome-visual-qc",
+      "source": "./",
+      "description": "Visual browser QC runbook — verify UI changes against intent in a real Chrome session. Merge-gate, live-app audit, fault diagnosis, UX QC. Gap analysis: current state vs expected, with severity-ranked findings."
+    }
+  ]
+}

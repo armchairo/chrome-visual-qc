@@ -1,0 +1,12 @@
+{
+  "name": "chrome-visual-qc",
+  "description": "Visual browser QC runbook for Claude Code — verify a UI change against its intent in a real Chrome session. Merge-gate, live-app audit, fault diagnosis, and UX QC with severity-ranked findings and a verifiable verdict.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Akira",
+    "email": "akira@crosbe.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/armchairo/chrome-visual-qc",
+  "repository": "https://github.com/armchairo/chrome-visual-qc"
+}

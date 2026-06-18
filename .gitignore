@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+# per-project QC evidence — not part of the plugin
+**/findings/
+**/screenshots/
+**/*.png
+**/*.gif
+**/*.mp4
