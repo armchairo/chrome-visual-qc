@@ -1,5 +1,6 @@
 {
   "name": "chrome-visual-qc",
+  "description": "Visual browser QC runbook for Claude Code — verify UI changes against intent in a real Chrome session.",
   "owner": {
     "name": "Akira",
     "email": "akira@crosbe.com"
